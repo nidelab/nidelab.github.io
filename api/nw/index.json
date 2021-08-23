@@ -1,4 +1,8 @@
 {
+"nw.ver":"1.0",
+}
+{
+"itemconfig":"1;1",
 "item1.name":"Test Item",
   
 "item1.desc":"Lovely test item!",
